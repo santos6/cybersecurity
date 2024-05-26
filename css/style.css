@@ -2,6 +2,8 @@
 
 *{
     font-family: "Hanken Grotesk",sans-serif;
+    text-decoration: none;
+    list-style: none;
     
 }
 
@@ -19,7 +21,7 @@ body{
 .litle-font-description{
     font-size: 12px;
     color: #99979f;
-    padding: 25px;
+    /*padding: 25px;*/
 }
 
 .fortify-block{
